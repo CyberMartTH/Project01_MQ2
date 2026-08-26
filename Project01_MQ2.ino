@@ -13,9 +13,9 @@ const int PIN_BUZZER  = 3;
 
 // ---------------- เกณฑ์ระดับเตือน ----------------
 const int TH_YELLOW_HIGH = 500;
-const int TH_YELLOW_LOW  = 300;
+const int TH_YELLOW_LOW  = 450;
 const int TH_RED_HIGH    = 700;
-const int TH_RED_LOW     = 500;
+const int TH_RED_LOW     = 650;
 
 // ---------------- จังหวะกระพริบ / เวลา ----------------
 const unsigned long BLINK_SLOW_INTERVAL = 600;  // เหลือง
